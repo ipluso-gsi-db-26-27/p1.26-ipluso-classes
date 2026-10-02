@@ -16,6 +16,8 @@ The environment is prepared with:
 
 **Do this before anything else.** You need your *own* repository — working directly in the class repository is not possible and your work may be lost.
 
+> Log in to your Github account before proceding
+
 **If you have a GitHub Classroom link:** click it, accept the assignment, and GitHub creates a private repository for you automatically.  
 Skip to step 2 — the link takes you to your new repository.
 
